@@ -1,4 +1,4 @@
-
+# 图片裁剪的demo #
 ## 选择相册的第三方 ##
  compile 'me.iwf.photopicker:PhotoPicker:0.9.5@aar'
  compile 'com.android.support:recyclerview-v7:23.4.0'
