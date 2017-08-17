@@ -23,4 +23,4 @@ compile 'com.soundcloud.android:android-crop:1.0.1@aar'
 
 ## 预览 ##
 
-![width="200px"](http://i.imgur.com/O0A4kHR.jpg )
+![width="100px"](http://i.imgur.com/O0A4kHR.jpg)
