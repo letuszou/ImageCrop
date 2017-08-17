@@ -22,5 +22,8 @@ compile 'com.soundcloud.android:android-crop:1.0.1@aar'
 
 
 ## 预览 ##
+ 
+<img src="http://i.imgur.com/O0A4kHR.jpg" width=288 height=512 />
+<img src="http://i.imgur.com/3o0LZUK.png" width=288 height=512 />
+<img src="http://i.imgur.com/sJ6ytgj.png" width=288 height=512 />
 
-![width="100px"](http://i.imgur.com/O0A4kHR.jpg)
